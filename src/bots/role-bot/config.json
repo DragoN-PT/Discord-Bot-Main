@@ -1,0 +1,11 @@
+[
+  {
+    "messageId": "1203026897425014834",
+    "channelId": "1201558282796548176",
+    "removeReaction": true,
+    "policy": "any",
+    "emojiRoleMap": {
+      "✅": ["153718131632766976"]
+    }
+  }
+]
